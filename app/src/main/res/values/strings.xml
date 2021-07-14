@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_fire_missiles">Fire Missiles</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_message">Dialog Message</string>
+    <string name="dialog_title">Dialog Title</string>
+    <string name="ok">OK</string>
+    <string name="pickcolor">Pick a Color</string>
+
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="picktoppings">Pick Toppings</string>
+
+    <string-array name="colors">
+        <item>@string/blue</item>
+        <item>@string/red</item>
+        <item>@string/green</item>
+    </string-array>
+
+    <string name="onion">Onion</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="tomato">Tomato</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">"Sign in "</string>
+    <string name="notice_back_message">Notice Back</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="dismisscancelmessage">Explore Dismiss Or Cancel Action</string>
+
+
+    <string-array name="toppings">
+        <item>@string/onion</item>
+        <item>@string/lettuce</item>
+        <item>@string/tomato</item>
+    </string-array>
+</resources>
